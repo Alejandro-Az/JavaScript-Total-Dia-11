@@ -11,12 +11,19 @@ Básicamente las instrucciones son que diseñes la página de cuenta del cliente
 que tenga la siguiente estructura:
 
 Banco de Springfield
+
 Springfield, IL
+
 [Nombre del cliente]
+
 Nro cuenta: [numero de cuenta]
+
 [monto dólres] USD
+
 [monto euros] EUR
+
 CBU: [Número CBU]
+
 Abierta:[fecha de apertura]
 
 Luego, tomando el archivo JSON que voy a dejarte en los documentos descargables de esta lección,
