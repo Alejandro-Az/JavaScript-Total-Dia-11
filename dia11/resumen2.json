@@ -1,0 +1,9 @@
+{
+    "banco": "Banco de Springfield II",
+    "sucursal": "Springfield, OH",
+    "titular": "Gómez Ana",
+    "nro_cuenta": "8735123/11",
+    "saldo": [ { "moneda": "USD", "monto": 1234.56 }, { "moneda": "EUR", "monto": 789.01} ],
+    "cbu": "8945612378546321",
+    "abierto": "15/09/2022"
+}
